@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: f8790e6ea3fa5c744a385b24b94b70fe
+  - enabled: 1
+    path: Assets/Scenes/Getting Goin'.unity
+    guid: 8f9fc370cf56e6348b6ed0db95c45029
+  - enabled: 0
+    path: Assets/levelSelect.unity
+    guid: f53fe964f3be47547af1430c8c21382c
